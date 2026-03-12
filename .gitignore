@@ -1,0 +1,18 @@
+# Xcode user data
+*.xcuserstate
+xcuserdata/
+*.xcworkspace/
+
+# macOS
+.DS_Store
+
+# Build
+build/
+DerivedData/
+
+# CocoaPods / SPM
+Pods/
+.build/
+
+# Claude
+.claude/
